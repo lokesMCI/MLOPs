@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MLOPs
 Bringing in life to ai/ml python codes using FastAPI
 =======
@@ -16,4 +16,4 @@ To begin sluething:
         <li>Read the instructions located in the `instructions.md` file.</li>
     </ol>
 
->>>>>>> WDBranch
+
