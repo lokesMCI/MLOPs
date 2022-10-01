@@ -1,0 +1,16 @@
+List of Git commands to create a local branch and push the same to main branch
+
+> git clone https:.....
+> git remote -v
+
+> git config --global user.email "email"
+> git config --global user.name "name"
+
+> git checkout -b newBranch
+
+> git add .
+> git commit -m "message for the commit"
+
+> git checkout main
+> git merge newBranch
+> git push origin main
